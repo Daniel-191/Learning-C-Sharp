@@ -1,2 +1,2 @@
-# Learning-C-
-A collection of all my C++ related stuff.
+# Learning-C#
+A collection of all my C# related stuff.

@@ -1,0 +1,14 @@
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.AssemblyInfoInputs.cache
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.AssemblyInfo.cs
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.csproj.CoreCompileInputs.cache
+/Users/DanielJ/Documents/projects/csharp/todo-list/bin/Debug/net9.0/todo-list
+/Users/DanielJ/Documents/projects/csharp/todo-list/bin/Debug/net9.0/todo-list.deps.json
+/Users/DanielJ/Documents/projects/csharp/todo-list/bin/Debug/net9.0/todo-list.runtimeconfig.json
+/Users/DanielJ/Documents/projects/csharp/todo-list/bin/Debug/net9.0/todo-list.dll
+/Users/DanielJ/Documents/projects/csharp/todo-list/bin/Debug/net9.0/todo-list.pdb
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.dll
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/refint/todo-list.dll
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.pdb
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/todo-list.genruntimeconfig.cache
+/Users/DanielJ/Documents/projects/csharp/todo-list/obj/Debug/net9.0/ref/todo-list.dll

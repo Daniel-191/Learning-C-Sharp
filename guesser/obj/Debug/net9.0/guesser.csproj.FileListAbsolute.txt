@@ -1,0 +1,14 @@
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.AssemblyInfoInputs.cache
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.AssemblyInfo.cs
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.csproj.CoreCompileInputs.cache
+/Users/DanielJ/Documents/projects/csharp/guesser/bin/Debug/net9.0/guesser
+/Users/DanielJ/Documents/projects/csharp/guesser/bin/Debug/net9.0/guesser.deps.json
+/Users/DanielJ/Documents/projects/csharp/guesser/bin/Debug/net9.0/guesser.runtimeconfig.json
+/Users/DanielJ/Documents/projects/csharp/guesser/bin/Debug/net9.0/guesser.dll
+/Users/DanielJ/Documents/projects/csharp/guesser/bin/Debug/net9.0/guesser.pdb
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.dll
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/refint/guesser.dll
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.pdb
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/guesser.genruntimeconfig.cache
+/Users/DanielJ/Documents/projects/csharp/guesser/obj/Debug/net9.0/ref/guesser.dll

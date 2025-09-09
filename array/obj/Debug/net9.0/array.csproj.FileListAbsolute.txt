@@ -1,0 +1,14 @@
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.AssemblyInfoInputs.cache
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.AssemblyInfo.cs
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.csproj.CoreCompileInputs.cache
+/Users/DanielJ/Documents/projects/csharp/array/bin/Debug/net9.0/array
+/Users/DanielJ/Documents/projects/csharp/array/bin/Debug/net9.0/array.deps.json
+/Users/DanielJ/Documents/projects/csharp/array/bin/Debug/net9.0/array.runtimeconfig.json
+/Users/DanielJ/Documents/projects/csharp/array/bin/Debug/net9.0/array.dll
+/Users/DanielJ/Documents/projects/csharp/array/bin/Debug/net9.0/array.pdb
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.dll
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/refint/array.dll
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.pdb
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/array.genruntimeconfig.cache
+/Users/DanielJ/Documents/projects/csharp/array/obj/Debug/net9.0/ref/array.dll
